@@ -1,0 +1,34 @@
+body{
+    background-image: url("https://us.123rf.com/450wm/zeferli/zeferli1807/zeferli180700189/104390851-concepto-de-fiesta-del-club-de-f%C3%BAtbol-2018-vista-de-cerca-de-la-cubierta-de-dj-con-enfoque.jpg?ver=6");
+    background-size: cover;
+}
+#boton{
+    background-color: purple;
+    
+}
+#label{
+    color: yellow;
+}
+#h1{
+    color: red;
+}
+#onda{
+    height: 150px;
+    width: 150px ;
+}
+#onda2{
+    height: 150px;
+    width: 150px ;
+}
+#i2i{
+    float: right;
+}
+#a1a{
+    float: left;
+}
+#velocidad{
+   color: white;
+}
+#volumen{
+    color: white;
+}
